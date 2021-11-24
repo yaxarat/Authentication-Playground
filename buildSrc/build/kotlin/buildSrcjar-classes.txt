@@ -1,0 +1,1 @@
+/Users/yasharatajan/Developer/BiometricSample/buildSrc/build/classes/kotlin/main/dependencies/Dependencies.class
